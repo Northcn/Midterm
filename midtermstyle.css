@@ -2,5 +2,6 @@ h1#site-title {
     font-size: 72px;
     font-family: Georgia, 'Times New Roman', Times, serif;
    text-align: center; 
+   background-color: 181, 131, 22;
    color: darkred;
 }
