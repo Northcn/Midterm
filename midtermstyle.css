@@ -1,8 +1,5 @@
-body {
-    background-color: burlywood; 
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0;
-    height: 100;
+h1#site-title {
+    font-size: 72px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center; 
 }
