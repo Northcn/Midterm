@@ -4,3 +4,9 @@ h1#site-title {
    text-align: center; 
    color: darkred;
 }
+
+h2 {
+    font-size: 54px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center; 
+}
