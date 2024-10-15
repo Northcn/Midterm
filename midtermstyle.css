@@ -1,4 +1,9 @@
 body {
+    height: 1000vh;
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
     background-image: url(https://png.pngtree.com/background/20230513/original/pngtree-teachers-day-apple-leaf-background-picture-image_2509130.jpg);
 }
 
