@@ -1,6 +1,6 @@
 body {
     height: 1000vh;
-    width: 100%;
+    width: 95%;
     height: 800px;
     background-position: center;
     background-size: cover;
@@ -23,8 +23,8 @@ h2 {
 
 img#Apple-Picking {
     float: right;
-    height: 10px;
-    width: 10px;
+    height: 100px;
+    width: 100px;
 }
 
 p#Apple {
