@@ -24,6 +24,7 @@ p#Apple {
 
 img#Apple-Picking {
     float: right;
+    border-radius: 20%;
     margin-left: 100px;
     height: 300px;
     width: 300px;
