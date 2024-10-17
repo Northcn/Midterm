@@ -16,8 +16,8 @@ h1#site-title {
 }
 
 p {
+    font-size: 48px;
     font-family:'Times New Roman', Times, serif;
-    font-size: 48;
     text-align: center; 
     color: darkred;
 }
