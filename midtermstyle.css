@@ -22,7 +22,7 @@ p#Apple {
     color: darkred;
 }
 
-img#Apple-Picking {
+#Apple-Picking {
     float: right;
     border-radius: 20%;
     margin-left: 100px;
