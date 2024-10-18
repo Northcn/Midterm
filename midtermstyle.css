@@ -6,6 +6,8 @@ body {
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-image: url(https://png.pngtree.com/background/20230513/original/pngtree-teachers-day-apple-leaf-background-picture-image_2509130.jpg);
+    margin: 0;
+    padding: 0;
 }
 
 h1#site-title {
