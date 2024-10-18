@@ -53,6 +53,7 @@ p#Dates {
 font-size: 24px;
 font-family: 'Times New Roman', Times, serif;
 margin-left: 25px;
+justify-content: left;
 text-align: left;
 width: 20%;
 display: inline-block;
@@ -63,6 +64,7 @@ display: inline-block;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 25px;
+    justify-content: center;
     text-align: center;
     width: 20%;
     display: inline-block;
@@ -71,6 +73,7 @@ display: inline-block;
 .Date-3 {
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+    justify-content: right;
     text-align: right; 
     width: 20%;
     display: inline-block;
