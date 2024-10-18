@@ -40,5 +40,7 @@ p#Dates {
     clear: right;
     margin-top: 50px;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 54px;
 
 }
