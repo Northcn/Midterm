@@ -27,6 +27,7 @@ h1#site-title {
     margin-left: 100px;
     height: 450px;
     width: 350px;
+    vertical-align: top;
 }
 
 .Description {
@@ -35,6 +36,9 @@ h1#site-title {
     font-size: 18px;
 }
 
-h3 {
+.Dates {
+    clear: right;
+    margin-top: 50px;
     text-align: center;
+
 }
