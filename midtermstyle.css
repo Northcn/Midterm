@@ -40,11 +40,10 @@ h1#site-title {
     font-size: 16px;
 }
 
-p#Dates {
+h3#Dates {
     clear: right;
     margin-top: 45px;
     text-align: center;
-    font-size: 30px;
     font-family:'Times New Roman', Times, serif;
 
 }
