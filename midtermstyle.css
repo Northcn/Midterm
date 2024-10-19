@@ -25,6 +25,7 @@ h1#site-title {
 }
 
 .Apple-Picking {
+    float: right;
     border-radius: 20%;
     margin-left: 100px;
     height: 350px;
