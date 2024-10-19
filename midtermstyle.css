@@ -51,11 +51,6 @@ h2 {
 
 }
 
-p.Date-1, p.Date-2, p.Date-3 {
-    display: inline-block;
-    width: 30%
-}
-
 .Date-1 {
 font-size: 24px;
 font-family: 'Times New Roman', Times, serif;
@@ -76,4 +71,10 @@ text-align: left;
     font-family: 'Times New Roman', Times, serif;
     text-align: right; 
 
+}
+
+footer#page-footer {
+    padding: 32px, 0;
+    margin: 64px;
+    text-align: center;
 }
