@@ -12,12 +12,12 @@ body {
 
 h1#site-title {
     font-size: 72px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
    text-align: center; 
    color: darkred;
 }
 
-.Apple {
+.Information {
     font-size: 18px;
     font-family:'Times New Roman', Times, serif;
     text-align: center; 
@@ -36,8 +36,16 @@ h1#site-title {
 .Description {
     text-align: left;
     margin-left: 25px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
+}
+
+.Honey-Crisp {
+    text-align: left;
+    margin-left: 25px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+
 }
 
 h2 {
