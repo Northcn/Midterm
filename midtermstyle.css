@@ -51,6 +51,12 @@ h2 {
 
 }
 
+p.Date-1, p.Date-2, p.Date-3 {
+    display: inline-block;
+    text-align: center;
+    width: 30%
+}
+
 .Date-1 {
 font-size: 24px;
 font-family: 'Times New Roman', Times, serif;
@@ -59,12 +65,6 @@ text-align: left;
 
 }
 
-.Date-2 {
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-
-}
 
 .Date-3 {
     font-size: 24px;
