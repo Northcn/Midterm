@@ -10,6 +10,10 @@ body {
     padding: 0;
 }
 
+.Skip-link {
+    text-align: center;
+}
+
 h1#site-title {
     font-size: 72px;
     font-family:'Times New Roman', Times, serif;
