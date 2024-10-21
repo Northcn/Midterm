@@ -88,5 +88,6 @@ footer#page-footer {
 }
 
 hr {
+    border-style: solid;
     border-top: 3px black;
 }
