@@ -62,7 +62,6 @@ h2 {
 .Date-1 {
 font-size: 24px;
 font-family: 'Times New Roman', Times, serif;
-vertical-align: top;
 margin-left: 25px;
 text-align: left;
 
@@ -71,7 +70,6 @@ text-align: left;
 .Date-2 {
     font-size: 24px;
     font-family:'Times New Roman', Times, serif; 
-    vertical-align: top;
     text-align: center;
 }
 
@@ -79,7 +77,6 @@ text-align: left;
 .Date-3 {
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
-    vertical-align: top;
     text-align: right; 
 
 }
