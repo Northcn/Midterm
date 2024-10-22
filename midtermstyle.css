@@ -66,28 +66,6 @@ h2 {
 
 }
 
-.Date-1 {
-font-size: 24px;
-font-family: 'Times New Roman', Times, serif;
-margin-left: 25px;
-text-align: left;
-
-}
-
-.Date-2 {
-    font-size: 24px;
-    font-family:'Times New Roman', Times, serif; 
-    text-align: center;
-}
-
-
-.Date-3 {
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: right; 
-
-}
-
 footer#page-footer {
     padding: 32px 0;
     margin-top: 64px;
